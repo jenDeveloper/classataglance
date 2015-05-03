@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Class at a Glance": {
+      "applicationId": "wnF0DoXuCEf19EqAHVXIhqLg8rBRyniTSALR7ZCX",
+      "masterKey": "lQWJC4AbuueylHhi4FIo9dLr0pQlyW4yT0sKhJGO"
+    },
+    "_default": {
+      "link": "Class at a Glance"
+    }
+  }
+}
